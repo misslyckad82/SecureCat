@@ -1,8 +1,6 @@
 # Detta Python-script genererar slumpmässiga lösenord bestående av både siffror, bokstäver och specialtecken. 
 # Lösenordet kontrolleras mot haveIbeenpwned.com för att se om det har upptäckts i kända läckor.
 
-
-
 print()
 print()
 print("    \033[1;95m VÄLKOMMEN TILL LÖSENORDSGENERATORN SOM GENERERAR KONTROLLERADE OCH SÄKRA LÖSENORD \033[0m")
